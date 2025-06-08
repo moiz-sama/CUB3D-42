@@ -1,0 +1,12 @@
+NO ./textures/brick_walls/brickwall1.xpm
+SO ./textures/brick_walls/brickwall2.xpm
+WE ./textures/brick_walls/brickwall3.xpm
+EA ./textures/brick_walls/brickwall4.xpm
+F 15,6,0
+C 100,60,1
+
+111111
+100001
+100101
+1N0001
+111111
